@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FitMe</string>
+    <string name="signin">Sign-In</string>
+    <string name="username_et">Username</string>
+    <string name="password_et">Password</string>
+    <string name="SignIn_buttor">Sign In</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="reenterPassword_et">Re-enter Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="office_mode">Office Mode</string>
+    <string name="log_out">Log out</string>
+    <string name="login_preference">android.project.trackmyfitness</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="step_count_for_today">Step Count For Today</string>
+    <string name="steps">Steps</string>
+    <string name="total_distance_walked">Total Distance Walked So Far: 0 Mile(s)</string>
+    <string name="office_mode_description">Office Mode reminds you stand up and walk hourly</string>
+</resources>
